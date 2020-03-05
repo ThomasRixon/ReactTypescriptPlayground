@@ -1,0 +1,1 @@
+- Install typescript react project - npx create-react-app [name-of-project] --template typescript
